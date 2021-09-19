@@ -1,7 +1,7 @@
 //connect react application to index.html file
 
-import React from 'reactt';
-import ReactDom from 'react-dom';
+import React from 'react';
+import ReactDOM from 'react-dom';
 
 import App from './App';
 
